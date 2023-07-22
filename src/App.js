@@ -51,8 +51,6 @@ return (
 <body bgcolor='beige'> <div>
 <Header
 />
-<Header
-/>
 <Navigation 
 Linkedin="www.linkedin.com/in/japheth-bruce-0b0276272"
 Github="https://github.com/Jah4god1"
