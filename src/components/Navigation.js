@@ -31,9 +31,9 @@ return (
          
 
 <ul>
-<h1 className="text-3xl font-bold mb-4">About Me</h1>
-<h3>XML, HTML, CSS, JavaScript, Data Structures, Algorithms, Object-Oriented Programming, NodeJS, MySQL, MongoDB, React, NextJS, Java, Visual Studio Code, Microsoft Office Apps, ExpressJS, jQuery, Sequelize, Handlebars, MERN, Full-Stack Development
-</h3>
+{/* <h1 className="text-3xl font-bold mb-4">About Me</h1>
+{/* <h3>XML, HTML, CSS, JavaScript, Data Structures, Algorithms, Object-Oriented Programming, NodeJS, MySQL, MongoDB, React, NextJS, Java, Visual Studio Code, Microsoft Office Apps, ExpressJS, jQuery, Sequelize, Handlebars, MERN, Full-Stack Development
+</h3> */} 
 </ul>
 </nav>
 

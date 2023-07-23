@@ -51,10 +51,10 @@ return (
 <body bgcolor='beige'> <div>
 <Header
 />
-<Navigation 
+{/* <Navigation 
 Linkedin="www.linkedin.com/in/japheth-bruce-0b0276272"
 Github="https://github.com/Jah4god1"
-/>
+/> */}
 {/* Your portfolio content goes here */}
 <section id="portfolio">
 <h2>Portfolio</h2>
@@ -62,7 +62,7 @@ Github="https://github.com/Jah4god1"
 <th><td>
 <Project
 title="Employee Tracker System"
-image="/images/project1.png"
+image="/images/developer1img.jpg"
 repoLink="https://github.com/Jah4god1/Employee-Tracking-Database-12"
 />
 </td>
