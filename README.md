@@ -9,7 +9,8 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open (https://jah4god1.github.io/ReactPortfolio/)
+to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
@@ -79,7 +80,8 @@ My React Portfolio
 
 ## Authors
 
-Contributors names and contact info
+Contributors names and contact info<img width="1048" alt="Screenshot 2023-07-23 at 1 01 00 PM" src="https://github.com/Jah4god1/ReactPortfolio/assets/113043846/c8f2d530-ac80-4914-9e77-92214735aba6">
+
 
 Japheth Bruce 
 japhethbruce93@gmail.com
