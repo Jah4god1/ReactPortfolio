@@ -26,13 +26,19 @@ return (
 <h1>Japheth Bruce </h1>
     <table>
 <tr><td padding-left= '30px'>
-<img src="/images/project1.jpg" height='200' width='150'></img>
-</td>
-<td>
-<h3>XML, HTML, CSS, JavaScript, Data Structures, Algorithms, Object-Oriented Programming, NodeJS, MySQL, MongoDB, React, NextJS, Java, Visual Studio Code, Microsoft Office Apps, ExpressJS, jQuery, Sequelize, Handlebars, MERN, Full-Stack Development
-</h3>
+<img src="/images/project1.jpg" height='180' width='150'></img>
 </td>
 </tr>
+<br></br>
+<td>
+<h3>XML, HTML, CSS, JavaScript, Data Structures, Algorithms, Object-Oriented Programming,
+  <br></br>
+   NodeJS, MySQL, MongoDB, React, NextJS, Java, Visual Studio Code, Microsoft Office Apps, 
+   <br></br>
+   ExpressJS, jQuery, Sequelize, Handlebars, MERN, Full-Stack Development
+</h3>
+</td>
+
 </table>
 <hr></hr>
 <h1 className="text-3xl font-bold mb-4">My Contact</h1>

@@ -57,9 +57,12 @@ Github="https://github.com/Jah4god1"
 /> */}
 {/* Your portfolio content goes here */}
 <section id="portfolio">
-<h2>Portfolio</h2>
+    <center>
+<h1>Portfolio</h1>
+</center>
 <table>
 <th><td>
+   
 <Project
 title="Employee Tracker System"
 image="/images/developer1img.jpg"
@@ -69,9 +72,21 @@ repoLink="https://github.com/Jah4god1/Employee-Tracking-Database-12"
 <td>
 <Project
 title="Note Taking System"
-image="/images/project2.jpg"
+image="/images/notetakerimg.jpg"
 repoLink="https://github.com/Jah4god1/note-taker-sqlllll"
 /></td>
+</th>
+
+</table>
+<table>
+<th><td>
+<Project
+title="Exerease Exercise App"
+image="/images/Exerease-port-pic.jpeg"
+repoLink="https://github.com/michelleshanna92/Exerease"
+/>
+</td>
+
 </th>
 </table>
 {/* Add more projects as needed */}
