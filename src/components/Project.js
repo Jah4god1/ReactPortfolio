@@ -16,15 +16,17 @@
 
 import React from 'react';
 
-const Project = ({ title, image, deployLink, repoLink }) => {
+const Project = ({ title, image, deployLink, repoLink, description1 }) => {
 return (
 <div>
 <h3>{title}</h3>&nbsp;&nbsp;
 <img src={image} alt={title} height='100' width='100'/>&nbsp;&nbsp;
 <br></br>
+
+
 <a href={deployLink}>Deployed Application</a>&nbsp;&nbsp;
 <a href={repoLink}>GitHub Repository</a>
-
+<p>{description1}</p>
 </div>
 );
 };

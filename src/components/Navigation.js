@@ -22,12 +22,14 @@ return (
 
 
 <nav>
+       
         <h1 className="text-3xl font-bold mb-4">My Contact</h1>
        
          <h3> Email: Japhethbruce93@gmail.com</h3>
         <div>
          <a href={Linkedin}>Linkedin</a> </div>
          <div><a href={Github}>GitHub</a></div>
+    
          
 
 <ul>

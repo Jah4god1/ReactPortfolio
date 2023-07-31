@@ -13,6 +13,7 @@
   },
   ".": "https://your-github-jah4god1.github.io/ReactPortfolio",
   "scripts": {
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

@@ -67,13 +67,19 @@ Github="https://github.com/Jah4god1"
 title="Employee Tracker System"
 image="/images/developer1img.jpg"
 repoLink="https://github.com/Jah4god1/Employee-Tracking-Database-12"
+description1="Accomplished Database Application Development. Designed and maintained comprehensive MySQL database for an employee information tracking system. Utilized front-end development, data integration, security, and optimization. Ensured data accuracy, privacy, and seamless user experiences."
 />
 </td>
+</th>
+</table>
+<table>
+    <th>
 <td>
 <Project
 title="Note Taking System"
 image="/images/notetakerimg.jpg"
 repoLink="https://github.com/Jah4god1/note-taker-sqlllll"
+description1="Developed a web-based database note-taking application using modern web technologies. The app allows users to create, organize, and manage notes efficiently while storing them in a secure and scalable database. It provides a user-friendly interface for seamless note-taking and retrieval."
 /></td>
 </th>
 
@@ -84,6 +90,7 @@ repoLink="https://github.com/Jah4god1/note-taker-sqlllll"
 title="Exerease Exercise App"
 image="/images/Exerease-port-pic.jpeg"
 repoLink="https://github.com/michelleshanna92/Exerease"
+description1="Implemented a full-stack web application for exercise tracking and fitness management using the MERN (MongoDB, Express.js, React.js, Node.js) stack. Utilized Graphql and Apollo Client."
 />
 </td>
 
